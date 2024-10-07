@@ -1,0 +1,459 @@
+{
+  "products": [
+    {
+      "category": "culatas",
+      "items": [
+        {
+          "id": 1,
+          "name": "CAT C12",
+          "imageUrl": "assets/products/culatas/CAT C12.png"
+        },
+        {
+          "id": 2,
+          "name": "CUMMINS 4BT",
+          "imageUrl": "assets/products/culatas/CUMMINS 4BT.png"
+        },
+        {
+          "id": 3,
+          "name": "CUMMINS 6BT",
+          "imageUrl": "assets/products/culatas/CUMMINS 6BT.jpeg"
+        },
+        {
+          "id": 4,
+          "name": "CUMMINS 6CT",
+          "imageUrl": "assets/products/culatas/CUMMINS 6CT.jpg"
+        },
+        {
+          "id": 5,
+          "name": "CUMMINS ISB",
+          "imageUrl": "assets/products/culatas/CUMMINS ISB.png"
+        },
+        {
+          "id": 6,
+          "name": "CUMMINS ISL",
+          "imageUrl": "assets/products/culatas/CUMMINS ISL.png"
+        },
+        {
+          "id": 7,
+          "name": "CUMMINS ISX",
+          "imageUrl": "assets/products/culatas/CUMMINS ISX.png"
+        },
+        {
+          "id": 8,
+          "name": "CUMMINS KTA 19",
+          "imageUrl": "assets/products/culatas/CUMMINS KTA 19.png"
+        },
+        {
+          "id": 9,
+          "name": "CUMMINS QSB",
+          "imageUrl": "assets/products/culatas/CUMMINS QSB.jpg"
+        },
+        {
+          "id": 10,
+          "name": "DETROIT 060",
+          "imageUrl": "assets/products/culatas/DETROIT 060.jpeg"
+        },
+        {
+          "id": 11,
+          "name": "MACK P8",
+          "imageUrl": "assets/products/culatas/MACK P8.jpg"
+        },
+        {
+          "id": 12,
+          "name": "N14 CELECT / CELECT PLUS / CONVENCIONAL",
+          "imageUrl": "assets/products/culatas/N14_Celect_ Celect plus_ Convencional.jpeg"
+        },
+        {
+          "id": 13,
+          "name": "VOLVO D12 A / B",
+          "imageUrl": "assets/products/culatas/VOLVO D12 A Y B.png"
+        },
+        {
+          "id": 14,
+          "name": "VOLVO D13",
+          "imageUrl": "assets/products/culatas/VOLVO D13.jpg"
+        },
+        {
+          "id": 15,
+          "name": "VOLVO FH",
+          "imageUrl": "assets/products/culatas/VOLVO FH.png"
+        }
+      ]
+    },
+    {
+      "category": "motores",
+      "items": [
+        {
+          "id": 1,
+          "name": "CAT C12",
+          "imageUrl": "assets/products/motores/CAT C12.jpg"
+        },
+        {
+          "id": 2,
+          "name": "CUMMINS 4BT",
+          "imageUrl": "assets/products/motores/CUMMINS 4BT.jpg"
+        },
+        {
+          "id": 3,
+          "name": "CUMMINS 6BT",
+          "imageUrl": "assets/products/motores/CUMMINS 6BT.jpg"
+        },
+        {
+          "id": 4,
+          "name": "CUMMINS 6CT",
+          "imageUrl": "assets/products/motores/CUMMINS 6CT.png"
+        },
+        {
+          "id": 5,
+          "name": "CUMMINS ISB",
+          "imageUrl": "assets/products/motores/CUMMINS ISB.jpg"
+        },
+        {
+          "id": 6,
+          "name": "CUMMINS ISL",
+          "imageUrl": "assets/products/motores/CUMMINS ISL.jpg"
+        },
+        {
+          "id": 7,
+          "name": "CUMMINS ISX",
+          "imageUrl": "assets/products/motores/CUMMINS ISX.png"
+        },
+        {
+          "id": 8,
+          "name": "CUMMINS KTA 19",
+          "imageUrl": "assets/products/motores/CUMMINS KTA 19.png"
+        },
+        {
+          "id": 9,
+          "name": "CUMMINS N14",
+          "imageUrl": "assets/products/motores/CUMMINS N14.png"
+        },
+        {
+          "id": 10,
+          "name": "CUMMINS QSB",
+          "imageUrl": "assets/products/motores/CUMMINS QSB.png"
+        },
+        {
+          "id": 11,
+          "name": "DETROIT 060",
+          "imageUrl": "assets/products/motores/DETROIT 060.jpg"
+        },
+        {
+          "id": 12,
+          "name": "MACK MP8",
+          "imageUrl": "assets/products/motores/MACK MP8.png"
+        },
+        {
+          "id": 13,
+          "name": "VOLVO D12 A / B",
+          "imageUrl": "assets/products/motores/VOLVO D12 A y B.png"
+        },
+        {
+          "id": 14,
+          "name": "VOLVO D13",
+          "imageUrl": "assets/products/motores/VOLVO D13.png"
+        },
+        {
+          "id": 15,
+          "name": "VOLVO FH",
+          "imageUrl": "assets/products/motores/VOLVO FH.png"
+        }
+      ]
+    },
+    {
+      "category": "cigueñales",
+      "items": [
+        {
+          "id": 1,
+          "name": "CAT C12",
+          "imageUrl": "assets/products/cigueñales/CAT C12.jpg"
+        },
+        {
+          "id": 2,
+          "name": "CUMMINS 4BT",
+          "imageUrl": "assets/products/cigueñales/CUMMINS 4BT.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "CUMMINS 6BT",
+          "imageUrl": "assets/products/cigueñales/CUMMINS 6BT.png"
+        },
+        {
+          "id": 4,
+          "name": "CUMMINS 6CT",
+          "imageUrl": "assets/products/cigueñales/CUMMINS 6CT.png"
+        },
+        {
+          "id": 5,
+          "name": "CUMMINS ISB",
+          "imageUrl": "assets/products/cigueñales/CUMMINS ISB.jpg"
+        },
+        {
+          "id": 6,
+          "name": "CUMMINS ISL",
+          "imageUrl": "assets/products/cigueñales/CUMMINS ISL.jpg"
+        },
+        {
+          "id": 7,
+          "name": "CUMMINS ISX",
+          "imageUrl": "assets/products/cigueñales/CUMMINS ISX.png"
+        },
+        {
+          "id": 8,
+          "name": "CUMMINS KTA 19",
+          "imageUrl": "assets/products/cigueñales/CUMMINS KTA 19.jpg"
+        },
+        {
+          "id": 9,
+          "name": "CUMMINS N14",
+          "imageUrl": "assets/products/cigueñales/CUMMINS N14.png"
+        },
+        {
+          "id": 10,
+          "name": "CUMMINS QSB",
+          "imageUrl": "assets/products/cigueñales/CUMMINS QSB.png"
+        },
+        {
+          "id": 11,
+          "name": "DETROIT 060",
+          "imageUrl": "assets/products/cigueñales/DETROIT 060.jpg"
+        },
+        {
+          "id": 12,
+          "name": "MACK MP8",
+          "imageUrl": "assets/products/cigueñales/MACK MP8.jpg"
+        },
+        {
+          "id": 13,
+          "name": "VOLVO D12 A / B",
+          "imageUrl": "assets/products/cigueñales/VOLVO D12 A y B.jpg"
+        },
+        {
+          "id": 14,
+          "name": "VOLVO D13",
+          "imageUrl": "assets/products/cigueñales/VOLVO D13.jpg"
+        },
+        {
+          "id": 15,
+          "name": "VOLVO FH",
+          "imageUrl": "assets/products/cigueñales/VOLVO FH.png"
+        }
+      ]
+    },
+    {
+      "category": "bielas",
+      "items": [
+        {
+          "id": 1,
+          "name": "CAT C12",
+          "imageUrl": "assets/products/bielas/CAT C12.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "CUMMINS 4BT",
+          "imageUrl": "assets/products/bielas/CUMMINS 4BT.jpg"
+        },
+        {
+          "id": 3,
+          "name": "CUMMINS 6BT",
+          "imageUrl": "assets/products/bielas/CUMMINS 6BT.jpg"
+        },
+        {
+          "id": 4,
+          "name": "CUMMINS 6CT",
+          "imageUrl": "assets/products/bielas/CUMMINS 6CT.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "CUMMINS ISB",
+          "imageUrl": "assets/products/bielas/CUMMINS ISB.jpg"
+        },
+        {
+          "id": 6,
+          "name": "CUMMINS ISL",
+          "imageUrl": "assets/products/bielas/CUMMINS ISL.jpg"
+        },
+        {
+          "id": 7,
+          "name": "CUMMINS ISX",
+          "imageUrl": "assets/products/bielas/CUMMINS ISX.jpg"
+        },
+        {
+          "id": 8,
+          "name": "CUMMINS KTA 19",
+          "imageUrl": "assets/products/bielas/CUMMINS KTA 19.jpg"
+        },
+        {
+          "id": 9,
+          "name": "CUMMINS N14",
+          "imageUrl": "assets/products/bielas/CUMMINS N14.jpg"
+        },
+        {
+          "id": 10,
+          "name": "CUMMINS QSB",
+          "imageUrl": "assets/products/bielas/CUMMINS QSB.jpg"
+        },
+        {
+          "id": 11,
+          "name": "DETROIT 060",
+          "imageUrl": "assets/products/bielas/DETROIT 060.png"
+        },
+        {
+          "id": 12,
+          "name": "MACK MP8",
+          "imageUrl": "assets/products/bielas/MACK MP8.jpg"
+        },
+        {
+          "id": 13,
+          "name": "VOLVO D12 A / B",
+          "imageUrl": "assets/products/bielas/VOLVO D12 A Y B.jpg"
+        },
+        {
+          "id": 14,
+          "name": "VOLVO D13",
+          "imageUrl": "assets/products/bielas/VOLVO D13.jpeg"
+        },
+        {
+          "id": 15,
+          "name": "VOLVO FH",
+          "imageUrl": "assets/products/bielas/VOLVO FH.png"
+        }
+      ]
+    },
+    {
+      "category": "árbol-de-levas",
+      "items": [
+        {
+          "id": 1,
+          "name": "CAT C12",
+          "imageUrl": "assets/products/árbol-de-levas/CAT C12.jpg"
+        },
+        {
+          "id": 2,
+          "name": "CUMMINS 4BT",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS 4BT.jpg"
+        },
+        {
+          "id": 3,
+          "name": "CUMMINS 6BT",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS 6BT.jpg"
+        },
+        {
+          "id": 4,
+          "name": "CUMMINS 6CT",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS 6CT.jpg"
+        },
+        {
+          "id": 5,
+          "name": "CUMMINS ISB",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS ISB.jpg"
+        },
+        {
+          "id": 6,
+          "name": "CUMMINS ISL",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS ISL.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "CUMMINS ISX",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS ISX.jpg"
+        },
+        {
+          "id": 8,
+          "name": "CUMMINS KTA 19",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS KTA 19.jpg"
+        },
+        {
+          "id": 9,
+          "name": "CUMMINS N14",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS N14.jpg"
+        },
+        {
+          "id": 10,
+          "name": "CUMMINS QSB",
+          "imageUrl": "assets/products/árbol-de-levas/CUMMINS QSB.png"
+        },
+        {
+          "id": 11,
+          "name": "DETROIT 060",
+          "imageUrl": "assets/products/árbol-de-levas/DETROIT 060.jpg"
+        },
+        {
+          "id": 12,
+          "name": "MACK MP8",
+          "imageUrl": "assets/products/árbol-de-levas/MACK MP8.jpg"
+        },
+        {
+          "id": 13,
+          "name": "VOLVO D12 A / B",
+          "imageUrl": "assets/products/árbol-de-levas/VOLVO D12 A y B.png"
+        },
+        {
+          "id": 14,
+          "name": "VOLVO D13",
+          "imageUrl": "assets/products/árbol-de-levas/VOLVO D13.jpg"
+        },
+        {
+          "id": 15,
+          "name": "VOLVO FH",
+          "imageUrl": "assets/products/árbol-de-levas/VOLVO FH.png"
+        }
+      ]
+    },
+    {
+      "category": "repuestos",
+      "items": [
+        {
+          "id": 1,
+          "name": "ASIENTOS DE VÁLVULAS",
+          "imageUrl": "assets/products/repuestos/ASIENTOS DE VÁLVULAS.png"
+        },
+        {
+          "id": 2,
+          "name": "BOCINAS DE BIELA",
+          "imageUrl": "assets/products/repuestos/BOCINAS DE BIELA.jpg"
+        },
+        {
+          "id": 3,
+          "name": "CAMISAS",
+          "imageUrl": "assets/products/repuestos/CAMISAS.png"
+        },
+        {
+          "id": 4,
+          "name": "GUÍAS DE VÁLVULAS",
+          "imageUrl": "assets/products/repuestos/GUÍAS DE VÁLVULAS.png"
+        },
+        {
+          "id": 5,
+          "name": "METALES DE BANCADA",
+          "imageUrl": "assets/products/repuestos/METALES DE BANCADA.png"
+        },
+        {
+          "id": 6,
+          "name": "METALES DE BIELA",
+          "imageUrl": "assets/products/repuestos/METALES DE BIELA.jpg"
+        },
+        {
+          "id": 7,
+          "name": "PISTONES Y PINES",
+          "imageUrl": "assets/products/repuestos/PISTONES Y PINES.jpg"
+        },
+        {
+          "id": 8,
+          "name": "RETENES",
+          "imageUrl": "assets/products/repuestos/RETENES.png"
+        },
+        {
+          "id": 9,
+          "name": "SEPARADORES STD",
+          "imageUrl": "assets/products/repuestos/SEPARADORES STD.jpg"
+        },
+        {
+          "id": 10,
+          "name": "VÁLVULAS",
+          "imageUrl": "assets/products/repuestos/VÁLVULAS.jpg"
+        }
+      ]
+    }
+  ]
+}
